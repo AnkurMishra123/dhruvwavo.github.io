@@ -27,6 +27,11 @@
 .hover08{
     display: flex;
     padding-left: 60%;
+    /* animation-play-state: paused; */
+}
+.hover08 figure:hover{
+    
+    animation-play-state: paused;
 }
 .hover08 figure img {
     animation:animate 8s linear infinite;
