@@ -6024,6 +6024,7 @@ hr {
 
 /* line 896, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_blog_page.scss */
 .blog_right_sidebar .popular_post_widget .post_item .media-body h3 {
+  
   font-size: 16px;
   line-height: 20px;
   margin-bottom: 6px;
@@ -6037,6 +6038,7 @@ hr {
 
 /* line 913, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_blog_page.scss */
 .blog_right_sidebar .popular_post_widget .post_item .media-body p {
+  font-family: 'Lato';
   font-size: 14px;
   line-height: 21px;
   margin-bottom: 0px;
